@@ -5,10 +5,10 @@ from pynput.mouse import Button, Controller
 from pynput.keyboard import Listener, KeyCode
 
 # declaration of variables
-delay = 0.1
+delay = 0.0001
 button = Button.left
-toggle_key = KeyCode(char='a')
-stop_key = KeyCode(char='b')
+toggle_key = KeyCode(char='1')
+stop_key = KeyCode(char='2')
 
 # extends the threading.Thread
 # inherit the importa
