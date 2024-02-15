@@ -24,7 +24,9 @@ This Python script provides an automated mouse clicker functionality. It simulat
     ```
     py auto_clicker.py
     ```
-4. The script will start running. Press `1` to toggle the auto-clicking on and off. Press `2` to stop the program entirely.
+4. Hover your mouse to where you want to click.
+5. The script will start running. Press `1` to toggle the auto-clicking on and off. Press `2` to stop the program entirely.
+    ![demoAutoclicker](https://github.com/KeijiPlata/cookie-clicker/assets/109679214/1cec6d19-78c3-4c2f-a0da-f152bd30b87f)
 
 ## Customization
 - You can customize the delay between clicks and the mouse button used for clicking by modifying the `delay` and `button` variables in the script.
