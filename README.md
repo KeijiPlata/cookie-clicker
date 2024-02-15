@@ -6,6 +6,10 @@ This Python script provides an automated mouse clicker functionality. It simulat
 - Python 3.x
 - pynput library (`pip install pynput`)
 
+## Tutorials
+- How to install python https://www.youtube.com/watch?v=nU2Egc3Zx3Q
+- How to install pip https://www.youtube.com/watch?v=ENHnfQ3cBQM
+
 ## How to Use
 1. Clone or download this repository to your local machine.
 2. Install the required dependencies using pip:
@@ -16,6 +20,10 @@ This Python script provides an automated mouse clicker functionality. It simulat
     ```
     python auto_clicker.py
     ```
+    or you can type shortcut:
+    ```
+    py auto_clicker.py
+    ```
 4. The script will start running. Press `1` to toggle the auto-clicking on and off. Press `2` to stop the program entirely.
 
 ## Customization
@@ -25,4 +33,4 @@ This Python script provides an automated mouse clicker functionality. It simulat
 ## Notes
 - This script is intended for educational and testing purposes only. Do not use it for any activities that violate terms of service or user agreements.
 
----
+

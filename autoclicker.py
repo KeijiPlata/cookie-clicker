@@ -11,7 +11,7 @@ toggle_key = KeyCode(char='1')
 stop_key = KeyCode(char='2')
 
 # extends the threading.Thread
-# inherit the importa
+# inherit the import
 class ClickMouse(threading.Thread):
 
     # get the button and delay value
